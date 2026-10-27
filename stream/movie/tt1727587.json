@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "Creative Commons — Sintel",
+      "title": "Sintel 2010",
+      "infoHash": "08ada5a7a6183aae1e09d831df6748d566095a10",
+      "behaviorHints": {
+        "bingeGroup": "freshfeed-cc-sintel"
+      }
+    }
+  ]
+}

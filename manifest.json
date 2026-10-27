@@ -1,0 +1,20 @@
+{
+  "id": "org.freshfeed.openfilms.cc.pilot",
+  "version": "1.0.0",
+  "name": "FreshFeed Licensed Open Films (Test)",
+  "description": "Static Stremio protocol sample for Creative Commons Blender films only. Metadata discovery, no video hosting. Experimental.",
+  "resources": [
+    "stream"
+  ],
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false
+  }
+}
